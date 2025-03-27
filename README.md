@@ -4,20 +4,20 @@ Vamos a crear un escenario multicontenedor con **Docker** para poner en funciona
 
 Los servicios que vamos a levantar son lo siguientes:
 
-- Servicio web con **Apache**
+- Servicio web con ***Apache***
 - Servicio de base de datos ***mySQL8***
 - Administrador de bases de datos ***PHPMyAdmin***
-- Base de datos no SQl: ***Redis***
+- Base de datos no SQL: ***Redis***
 
 El primer paso es clonarnos un repositorio de Github que contiene un ***docker-compose.yml*** junto a otros archivos necesario para levantar los servicios:
 
 ![Primeros pasos](Imagenes/1.png)
 
-Una vez clonado, nos movemos a la carpeta del repositorio y copiamos el archivo *sample.env* como *.env*, este archivo va a ser el que contenga las variables de entorno que utiliza el **docker-compose.yml**:
+Una vez clonado, nos movemos a la carpeta del repositorio y copiamos el archivo ***sample.env*** como ***.env***, este archivo va a ser el que contenga las variables de entorno que utiliza el **docker-compose.yml**:
 
 ![Carpetas y ficheros del repositorio](Imagenes/2.png)
 
-El archivo *.env* tiene el siguiente aspecto:
+El archivo **.env** tiene el siguiente aspecto:
 
 ![Archivo .env](Imagenes/3.png)
 
