@@ -21,7 +21,7 @@ El archivo **.env** tiene el siguiente aspecto:
 
 ![Archivo .env](Imagenes/3.png)
 
-Una buena práctica de seguridad es cambiar los puertos por defecto que traen los servicios, por esa razón los he modificado:
+Una buena práctica de seguridad es cambiar los puertos por defecto que traen los servicios, por esa razón los he modificado.
 
 El siguiente paso es descargar las imágenes y levantar los contenedores, lo podemos hacer con ***docker-compose up -d***:
 
