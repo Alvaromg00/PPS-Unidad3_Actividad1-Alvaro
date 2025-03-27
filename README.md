@@ -4,9 +4,9 @@ Vamos a crear dos escenarios multicontenedor con **Docker** para poner en funcio
 
 ## Indice
 
-> [1. Creación de laboratorio de máquinas vulnerables](#creacion-de-laboratorio-de-maquinas-vulnerables)
+> [1. Creación de laboratorio de máquinas vulnerables](#creación-de-laboratorio-de-máquinas-vulnerables)
 
-> [2. Creación del entorno de pruebas](#creacion-del-entorno-de-pruebas)
+> [2. Creación del entorno de pruebas](#creación-del-entorno-de-pruebas)
 
 ## Creación de laboratorio de máquinas vulnerables
 
